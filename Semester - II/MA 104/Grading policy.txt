@@ -1,2 +1,16 @@
-Attendance - =<85% (Only 2 leaves are allowed) - Carry 10% of the grade
+
+Quiz 1 - 20%
+Quiz 2 - 20%
+Final Exam - 40%
+Assignment - 10%
+Atendance -  10%
+
+Attendance Policy:
+
+85% +   -  10
+70% +   -  8
+55% +   -  6
+40% +   -  4
+<40%    -  0
+
 
