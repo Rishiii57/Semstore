@@ -1,1 +1,0 @@
-## Lecture slides and labs can be found at https://nipunbatra.github.io/stt-ai-26/lectures.html
